@@ -8,3 +8,4 @@
 132435samadsezarshod/132435samadsezarshod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+درود به همه دوستان من یه طرح تولید انرژی برق با منابع طبیعی را در سر دارم و دوست دارم که این فکر جدید یجوری عملیش کنم یک روز ولی چجوری نمیدوم
